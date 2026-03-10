@@ -1,8 +1,6 @@
 __pycache__
 train_images
 train.csv
-best_cnn_model.pth
-best_effnet_model.pth
 final_cnn_model.pth
 final_effnet_model.pth
 retina_env
